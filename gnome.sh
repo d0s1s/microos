@@ -11,7 +11,7 @@ set -e
 #
 # Usage:
 # After installing microos, log in and type:
-# "bash <(curl -sL <URL_OF_THIS_SCRIPT>)"
+# "bash <(curl -sL https://github.com/d0s1s/microos/blob/main/gnome.sh)"
 #
 ##########################################################################################################
 
